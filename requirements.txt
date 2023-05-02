@@ -1,0 +1,14 @@
+os
+pandas
+numpy
+tkinter
+pyresparser
+sklearn.linear_model
+difflib.SequenceMatcher
+docx2txt
+PyPDF2
+re
+tensorflow
+transformers
+tensorflow_addons
+web-browser
